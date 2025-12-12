@@ -1,10 +1,4 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=header&reversal=false&text=Le%20Hoang&fontSize=75&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhwczBmemd1ZTcxcTUydHRrdGhpaTZwaGo4eGpvNTN1N3FuM21odiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8JCIWBz8oRRLZmZhNn/giphy.gif"  />
 
 ###
 
@@ -43,6 +37,6 @@
 
 <br clear="both">
 
-<h5 align="left">I’m passionate about building meaningful products, exploring new technologies, and contributing to open-source projects.<br>I enjoy solving real-world problems, learning continuously, and turning ideas into working solutions.<br><br>If you find something interesting here, feel free to leave a ⭐ or reach out—I'm always open to collaboration!</h5>
+<h4 align="left">I’m passionate about building meaningful products, exploring new technologies, and contributing to open-source projects.<br>I enjoy solving real-world problems, learning continuously, and turning ideas into working solutions.<br><br>If you find something interesting here, feel free to leave a ⭐ or reach out—I'm always open to collaboration!</h4>
 
 ###
